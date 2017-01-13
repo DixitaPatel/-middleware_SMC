@@ -10,4 +10,5 @@
   }
 
   require_once('views/layout.php');
+// this is just for testing the github
 ?>
