@@ -27,7 +27,6 @@
         } 
         
         $mappings = URL::get_mappings($url_data->id);
-
         
         require_once('views/urls/show.php');
       
