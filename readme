@@ -1,4 +1,4 @@
-Current scenario:
+Scenario:
 The current problem is regarding creation and maintenance of API which handles this data.Every time a new kind of data source comes in, a new API is to be written to handle it.
 
 Providing time efficient solution:
